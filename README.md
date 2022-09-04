@@ -1,6 +1,7 @@
 # nodets-canil
 Estudos de Back-end com node- firt project in node
 Curso B7web modulo Nodejs + typescript
+Projeto finalizado.
 
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node `
