@@ -138,5 +138,4 @@ export const Pet = {
     data.filter(
       item => item.name.toLowerCase().indexOf(name.toLowerCase()) > -1
     )
-  // se nao der certo desta maneira tente por {return...}
 }
